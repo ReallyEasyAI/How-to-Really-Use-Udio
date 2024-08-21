@@ -1,0 +1,14 @@
+Write lyrics suitable for a 30s clip — about 6 lines for most genres, fewer for slower songs, and more for faster ones.
+
+To spice up your creations, try adding special descriptors like [Verse], [Chorus], [Hook], [Guitar Solo], or [Drop]. You can also specify backing vocals by using parentheses.
+
+Add [Verse], [Bridge], and [Chorus] tags for additional control.
+
+[Drop] and [guitar solo] [sax solo] all do interesting things.
+
+If you notice that the model mispronounces a word, you can split it up into easier phonemes. Another problem you may come across is the model placing stress on the wrong syllable. This can be mitigated by stressing the correct syllable directly in the lyrics (e.g., in Russian, try writing бето́номешалка instead of бетономешалка).
+
+Use between 200 and 350 characters for best results.
+
+Write lyrics suitable for a 30s clip — about 6 lines for most genres, fewer for slower songs, and more for faster ones.
+
